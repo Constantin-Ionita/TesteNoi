@@ -1,3 +1,4 @@
 nou fisier
 nou nout
-conflict
+
+spatiu spa
